@@ -29,7 +29,7 @@ $(document).ready(function(){
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Software Developer." ,"Texas Tech Student.", "Graduate June 2019."],
+		strings: ["Software Developer." ,"Graduate Student.", "Texas Tech Alumnus."],
 		typeSpeed: 50,
 		loop: true,
 		startDelay: 1000,
